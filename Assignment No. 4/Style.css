@@ -1,0 +1,60 @@
+body{
+    background-image: url(./Logo.PNG),url(./Trusted\ Logo.PNG),url(./8\ options.PNG),url(./For\ Clients.PNG),url(./Final.PNG); 
+    background-repeat: no-repeat;
+    background-size: 410px,550px,1100px,1100px,1100px;
+    background-position-x: 900px,240px,255px,255px,255px;
+    background-position-y: 190px,600px,950px,1300px,1900px;
+    padding-bottom: 2500px;
+    height: 200px;
+}
+button{
+    width: 120px;
+    height: 45px;
+    border-radius: 30px;
+}
+
+
+h1{
+    color: green;
+    padding-right: 600px;
+    font-size: 75px;    
+}
+input{
+    width: 320px;
+    height: 45px;
+    border-radius: 30px;
+}
+h2{
+    padding-left: 250px;
+    font-size: 26px;
+}
+h3{
+    padding-left: 250px;
+    padding-top:150px;
+    font-size: 50px;
+}
+button{
+     background-color:lightgreen;
+}
+
+p{
+    color: green;
+    margin-left: 255px;
+    font-size: 22px;
+}
+
+li{
+    display: inline;
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
